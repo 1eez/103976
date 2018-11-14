@@ -6,6 +6,7 @@
 
 支持phpMyAdmin直接导入。
 
-总数展示：共103876个单词
+##总数展示：共103876个单词。  
+
 ![avatar](https://github.com/1eez/103976/blob/master/PIC-%E6%80%BB%E6%95%B0%E7%BB%9F%E8%AE%A1.png)
 
