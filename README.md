@@ -6,6 +6,10 @@
 
 支持phpMyAdmin直接导入。
 
+## 文件列表说明：
+- EnWords.sql SQL导入文件，可以直接在phpMyAdmin中导入。也可以直接导入MS SQL Server各个版本中。
+- EnWords.csv Excel格式文件，也可以用于导入到数据库中。
+
 
 # 总数展示：共103976个单词。  
 
