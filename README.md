@@ -6,7 +6,23 @@
 
 支持phpMyAdmin直接导入。
 
-##总数展示：共103876个单词。  
+
+# 总数展示：共103976个单词。  
 
 ![avatar](https://github.com/1eez/103976/blob/master/PIC-%E6%80%BB%E6%95%B0%E7%BB%9F%E8%AE%A1.png)
 
+# 单词库表展示：
+
+![avatar](https://github.com/1eez/103976/blob/master/PIC-%E5%8D%95%E8%AF%8D%E5%BA%93%E8%A1%A8%E5%B1%95%E7%A4%BA.png)
+
+# SQL文件预览。   
+
+![avatar](https://github.com/1eez/103976/blob/master/PIC-sql%E6%96%87%E4%BB%B6%E9%A2%84%E8%A7%88.png)
+
+# CSV文件预览：
+
+![avatar](https://github.com/1eez/103976/blob/master/PIC-csv%E6%96%87%E4%BB%B6%E9%A2%84%E8%A7%88.png)
+
+# Excel文件预览（Excel只能打开最前面的65535行数据）
+
+![avatar](https://github.com/1eez/103976/blob/master/PIC-Excel%E6%96%87%E4%BB%B6%E9%A2%84%E8%A7%88.png)
