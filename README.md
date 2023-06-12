@@ -31,3 +31,6 @@
 # Excel文件预览（Excel只能打开最前面的65535行数据）
 
 ![avatar](https://github.com/1eez/103976/blob/master/PIC-Excel%E6%96%87%E4%BB%B6%E9%A2%84%E8%A7%88.png)
+
+# SQLite文件预览：
+![PIC-SQLite文件预览](./PIC-SQLite文件预览.png)
